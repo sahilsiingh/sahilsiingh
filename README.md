@@ -2,7 +2,7 @@
 
 ## 🌱 Skills
 
-- **Languages:**  HTML, CSS, JavaScript, Java .
+- **Languages:**  HTML, CSS, JavaScript, Java 
 - **Tools:** Git, VS Code , Eclispe, IntelliJ Idea, Mongo DB
 
 ## 🔗 Connect with Me
