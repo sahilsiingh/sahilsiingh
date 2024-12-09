@@ -2,10 +2,10 @@
 data-target="animated-image.originalImage">
 
 
-<h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">I'm Computer Science & Engineering student from <a href="https://www.galgotiasuniversity.edu.in/"> Galgotias University.</a></h3>
+<h1 align="center">Hi 👋, I'm Sahil</h1>
+<h3 align="center">I'm Computer Science & Engineering student from <a href="https://www.lingayasvidyapeeth.edu.in/"> Lingayas Vidyapeeth.</a></h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankittraj&label=Profile%20views&color=0e75b6&style=flat" alt="ankittraj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankittraj&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsiingh" /> </p>
 
 
 
@@ -13,11 +13,11 @@ data-target="animated-image.originalImage">
 
 - 💬 Ask me about **Git,GitHub,Web & JAVA Development**
 
-- 📫 How to reach me **rajankit2118@gmail.com**
+- 📫 How to reach me **sahilsingh18012002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = "https://www.linkedin.com/in/ankit-raj-380757213/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/sahil-singh-79b775305/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://twitter.com/ankitrajjj"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 </p>
 
