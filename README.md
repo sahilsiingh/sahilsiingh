@@ -38,7 +38,7 @@ data-target="animated-image.originalImage">
  <td>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ankittraj&" alt="sahilsiingh" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsiingh&" alt="sahilsiingh" /></p>
   
  </td>
 </tr>
