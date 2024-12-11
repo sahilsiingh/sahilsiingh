@@ -31,7 +31,7 @@ data-target="animated-image.originalImage">
 <tr>
  <td>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sahilsiingh&show_icons=true&locale=en&" alt="sahilsiingh" /></p>
-
+ 
  </td>
 
  <td>
